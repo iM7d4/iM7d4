@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently mastering Data Analytics<br>👯 Looking to collaborate with fellow Data Enthusiasts to discover trends never unfolded before! <br>💬 Ask me about Machine Learning and visualization techniques<br> 🤝🏻Write to me at: dharmeshmenaria02@gmail.com <br>
+🔭 I'm currently mastering Data Analytics<br>👯 Looking to collaborate with fellow Data Enthusiasts to discover trends never unfolded before! <br>💬 Ask me about Machine Learning and visualization techniques<br> 🤝🏻 Write to me at: dharmeshmenaria02@gmail.com <br>
 
 
 ## 🌐 Socials:
